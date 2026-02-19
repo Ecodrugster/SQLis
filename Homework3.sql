@@ -173,7 +173,7 @@
 --     o.created_at
 -- FROM orders o
 -- JOIN users u ON o.user_id = u.id
--- WHERE u.name = 'Sasha'
+-- WHERE u.name = 'Platon'
 -- ORDER BY o.created_at ASC;
 -- 3
 -- SELECT
